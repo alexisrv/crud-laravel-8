@@ -5,7 +5,7 @@
 
 Sistema para registrar, editar y eliminar productos en una base de datos.
 
-**Quick Installation**
+**Instalación Rápida**
 ```
 git clone https://github.com/alexisrv/crud-laravel-8/ laravel-8-crud
 
