@@ -1,3 +1,35 @@
+# CRUD Laravel 8
+## [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/alexisrv/user-authentication) [![License](https://img.shields.io/github/license/alexisrv/user-authentication.svg)](https://github.com/alexisrv/user-authentication)
+
+![Medium Logo](https://github.com/alexisrv/crud-laravel-8/blob/master/screens.jpg)
+
+Sistema para registrar, editar y eliminar productos en una base de datos.
+
+**Quick Installation**
+```
+git clone https://github.com/alexisrv/crud-laravel-8/ laravel-8-crud
+
+cd laravel-8-crud
+
+composer install
+
+php artisan migrate
+
+php artisan serve
+```
+
+**Conexión (.ENV)**
+```php
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
+```
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
